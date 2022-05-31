@@ -14,8 +14,8 @@
     ]
   },
   "architecture": {
-    "name": "Method of Delivery",
-    "title": "The legal structure of claims",
+    "name": "Architecture",
+    "title": "How a CBDC is delivered",
     "categories": [
       {
         "name": "Direct CBDC",
@@ -41,7 +41,7 @@
   },
   "technology_partnerships": {
     "name": "Technology Partnership",
-    "title": "Technology solution provider"
+    "title": "Technology solution provider. Many central banks contract with external vendors/companies to design their CBDC."
   },
   "infrastructure": {
     "name": "Underlying Technology",
